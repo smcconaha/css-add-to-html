@@ -1,6 +1,13 @@
 h1  {
     color:red;
 }
-p   {
+p, li   {
     color:green;
+}
+li  {
+    list-style-type: square;
+}
+.special    {
+    color:orange;
+    font-weight: bold;
 }
